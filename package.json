@@ -57,3 +57,10 @@
     "build": "vite build"
   }
 }
+
+{
+  "engines": {
+    "node": "20.x"
+  }
+}
+
