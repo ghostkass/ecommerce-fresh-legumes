@@ -1,6 +1,6 @@
 # E‑commerce — Fresh Produce (Vite + React)
 
-Front-end d’e‑commerce basé sur un design Figma, construit avec **Vite 6 + React 18** et une UI moderne (Radix UI, utilitaires CSS). Ce dépôt est prêt pour une **démo locale rapide**, un **build de production**, et un **déploiement statique** (Vercel, Netlify, GitHub Pages, etc.).
+Front-end d’e‑commerce, construit avec **Vite 6 + React 18** et une UI moderne (Radix UI, utilitaires CSS). Ce dépôt est prêt pour une **démo locale rapide**, un **build de production**, et un **déploiement statique** (Vercel, Netlify, GitHub Pages, etc.).
 
 ---
 
